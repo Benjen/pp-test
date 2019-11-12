@@ -1,0 +1,22 @@
+{
+  "name": "pp-test",
+  "version": "1.0.0",
+  "description": "Test project for PP site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjen/pp-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjen/pp-test/issues"
+  },
+  "homepage": "https://github.com/Benjen/pp-test#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
